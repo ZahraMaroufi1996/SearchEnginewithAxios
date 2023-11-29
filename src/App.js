@@ -9,7 +9,7 @@ export default function App() {
       <SearchEngine city="Tehran" />
       <small className="source-code">
         <a
-          href="https://github.com/alimahmoodi/weather_app/tree/main"
+          href="https://github.com/ZahraMaroufi1996/SearchEnginewithAxios"
           target="_blank"
           rel="noreferrer"
         >
